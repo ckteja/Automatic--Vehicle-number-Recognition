@@ -1,6 +1,6 @@
 # Automatic--Vehicle-number-Recognition
 Automatic Vehicle Number Recognition System, is a Deep Learning Model built using Easy OCR and YoloV5
-## Number Plate Recognition:
+### Number Plate Recognition:
 
 
 https://user-images.githubusercontent.com/91280385/201384082-cb7ef956-c978-4a9c-9c98-b2835ad7b8b7.mp4
