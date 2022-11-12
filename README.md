@@ -1,5 +1,5 @@
 # Automatic--Vehicle-number-Recognition
-Automatic Vehicle Number Recognition System, is a Deep Learning Model built using Easy OCR and YoloV5
+Automatic Vehicle Number Recognition System, is a Deep Learning Model built using Easy OCR and YoloV5.
 ### Model Architecture
 ![train_exp](https://user-images.githubusercontent.com/91280385/201397301-9e9a8474-e8e3-42fe-967f-70d1b8937601.png)
 
