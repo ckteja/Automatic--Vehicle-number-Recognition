@@ -15,7 +15,7 @@ OCR_TH = 0.2
 
 
 
-### -------------------------------------- function to run detection ---------------------------------------------------------
+### -------------------------------------- function to run the detection ---------------------------------------------------------
 def detectx (frame, model):
     frame = [frame]
     print(f"[INFO] Detecting. . . ")
